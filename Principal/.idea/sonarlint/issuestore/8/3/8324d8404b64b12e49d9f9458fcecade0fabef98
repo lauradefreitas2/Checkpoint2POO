@@ -1,0 +1,13 @@
+
+‹
+java:S1319,"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¦Ê—°üÿÿÿÿ
+†
+java:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ğöñ¸
+ƒ
+java:S14885"aImmediately return this expression instead of assigning it to the temporary variable "novaLista".(·Àç…ùÿÿÿÿ8ßìÍÑÍ0
+0
+java:S1220""Move this file to a named package.
+
+java:S1130""yRemove the declaration of thrown exception 'teste.ExisteMedicamentoException', as it cannot be thrown from method's body.(½‚±ÿ
+G
+java:S1068	",Remove this unused "endereco" private field.(Å¶§ÿüÿÿÿÿ

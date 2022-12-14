@@ -1,0 +1,19 @@
+
+0
+java:S1220""Move this file to a named package.
+M
+java:S1854"7Remove this useless assignment to local variable "uni".(•Ìü¸
+O
+java:S1854"9Remove this useless assignment to local variable "lista".(™“¬Õ
+P
+java:S1854":Remove this useless assignment to local variable "vogais".(ƒßÈÐ
+Q	java:S125"<This block of commented-out lines of code should be removed.(­Õ¤
+V	java:S125"<This block of commented-out lines of code should be removed.(ê‡¤ðýÿÿÿÿ
+A
+java:S1481"+Remove this unused "vogais" local variable.(ƒßÈÐ
+@
+java:S1481"*Remove this unused "lista" local variable.(™“¬Õ
+<
+java:S1905"&Remove this unnecessary cast to "int".(•Ìü¸
+>
+java:S1481"(Remove this unused "uni" local variable.(•Ìü¸

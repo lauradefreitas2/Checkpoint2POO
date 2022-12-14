@@ -1,0 +1,13 @@
+
+†
+java:S1319<"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ç”’–
+|
+java:S1488="aImmediately return this expression instead of assigning it to the temporary variable "novaLista".(â¥éÈûÿÿÿÿ
+W
+java:S49735"<Strings and Boxed types should be compared using "equals()".(£È“ªşÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+_
+java:S1128"=Remove this unused import 'teste.ExisteMedicamentoException'.(«£‡¶üÿÿÿÿ8Ğê¼ŞÍ0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Ñê¼ŞÍ0
